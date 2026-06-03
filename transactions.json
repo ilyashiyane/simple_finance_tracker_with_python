@@ -1,0 +1,9 @@
+[
+    {
+        "transaction_type": "income",
+        "amount": 12.0,
+        "category": "Housing",
+        "description": "AZ",
+        "date": "2005-12-12"
+    }
+]
